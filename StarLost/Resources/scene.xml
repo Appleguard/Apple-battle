@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+	<Scenes>
+		<scene>
+			<sceneName>scene_1</sceneName>
+			<sceneNumber>1</sceneNumber>
+			<chapterNumber>4</chapterNumber>
+			<unLock>0</unLock>
+		
+		</scene>
+		<scene>
+			<sceneName>scene_2</sceneName>
+			<sceneNumber>2</sceneNumber>
+			<chapterNumber>4</chapterNumber>
+			<unLock>1</unLock>
+		
+		</scene>
+		<scene>
+			<sceneName>scene_3</sceneName>
+			<sceneNumber>3</sceneNumber>
+			<chapterNumber>4</chapterNumber>
+			<unLock>1</unLock>
+		
+		</scene>
+		<scene>
+			<sceneName>scene_4</sceneName>
+			<sceneNumber>4</sceneNumber>
+			<chapterNumber>4</chapterNumber>
+			<unLock>1</unLock>
+		</scene>
+    </Scenes>
+</rss>
